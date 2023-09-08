@@ -15,7 +15,8 @@ function App() {
 					target="_blank"
 					rel="noopener noreferrer"
 				>
-					Learn React With Nhialee
+					Learn React With Nhialee Yang. He is the man. Who is? Nhialee is not!
+					Yeah, he is!
 				</a>
 			</header>
 		</div>
